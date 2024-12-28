@@ -1,0 +1,19 @@
+/* external.css */
+body {
+    background-color: #f0f0f0;
+  }
+  
+  .example-class {
+    color: red;
+    font-size: 24px;
+  }
+  .heading{
+    text-align: center;
+  }
+  .login{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
